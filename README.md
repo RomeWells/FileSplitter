@@ -32,3 +32,8 @@ analysis_results_extract_entities.txt
 analysis_results_key_points.txt
 analysis_results_questions.txt
 analysis_results_all.txt (containing all analyses)
+
+
+To use Text_clarifer.py file simply type in the command prompt the following
+
+text_clarifier.py analysis_results_summarize.txt "tell me what the summary is about"
