@@ -1,5 +1,3 @@
-Notion Page: FFS-2 - Implement feature X
-
 
 This is a Long Text Analyzer
 Designed to Take Long Text File and summarize it into smaller chunks.
