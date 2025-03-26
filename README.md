@@ -1,4 +1,4 @@
-Notion Page: 8f38c9b0e70a48e5a5e6463d07dd29c2 - Implement feature X
+Notion Page: FFS-2 - Implement feature X
 
 
 This is a Long Text Analyzer
